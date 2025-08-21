@@ -14,9 +14,7 @@
 </p>
 
 # Описание
-```swift
-throw NotImplementedError
-```
+**Anomer** - это просто еще один мессенджер без нагружающих деталей и усложненного функционала. Этот репозиторий представляет реализацию iOS-клиента. Также я работаю над [бэкендом на Python](https://github.com/raphaelgolubev/anomer_backend)
 
 - iOS 18.0 +
 - UIKit & SwiftUI
