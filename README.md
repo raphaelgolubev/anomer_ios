@@ -7,14 +7,14 @@
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/raphael_golubev-anomer-5ad1e6">
   <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/raphaelgolubev/anomer_ios">
-  <img alt="GitHub" src="https://img.shields.io/github/license/raphaelgolubev/anomer_ios">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/raphaelgolubev/anomer_ios">
+  <img alt="GitHub" src="https://img.shields.io/github/license/raphaelgolubev/anomer_ios?color=white">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/raphaelgolubev/anomer_ios?color=orange">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/raphaelgolubev/anomer_ios?color=green">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/raphaelgolubev/anomer_ios">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/raphaelgolubev/anomer_ios?color=black">
 </p>
 
 # Описание
-**Anomer** - это просто еще один мессенджер без нагружающих деталей и усложненного функционала. Этот репозиторий представляет реализацию iOS-клиента. Также я работаю над [бэкендом на Python](https://github.com/raphaelgolubev/anomer_backend)
+**Anomer** - это просто еще один мессенджер без нагружающих деталей и усложненного функционала. Этот репозиторий представляет реализацию iOS-клиента. Также я работаю над [бэкендом на Python](https://github.com/raphaelgolubev/anomer_backend).
 
 - iOS 18.0 +
 - UIKit & SwiftUI
